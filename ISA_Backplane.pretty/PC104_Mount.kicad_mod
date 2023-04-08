@@ -1,0 +1,14 @@
+(footprint "PC104_Mount" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr through_hole)
+  (fp_text reference "REF**" (at -5.08 -2.54 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 66a35daa-440f-4300-be57-664744da61ea)
+  )
+  (fp_text value "PC104_Mount" (at 0 -5.08 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 54cd1037-e43d-446b-807f-7cfd0f25ce44)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 6.35 6.35) (drill 3.18) (layers *.Cu *.Mask) (tstamp 0063b427-638f-410f-81af-057d903ebde6))
+)
